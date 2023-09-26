@@ -1,1 +1,1 @@
-learning git today
+learning git today, so cool.
